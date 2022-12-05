@@ -23,3 +23,5 @@ forEach(['a', 'b', 'c'], console.log);
 <hr>
 
 Your explanation here...
+--
+This code prints `'a' 'b' 'c'`. First, this function uses a for loop to iterate through a given array. Inside the for loops block the parameter `action` is invoked and the array elements are being passed into the function.
